@@ -1,8 +1,8 @@
 import React from 'react'
-import About from './About'
-import Service from './Service'
-import Blog from './Blog'
-import Contact from './Contact'
+import About from '../components/About'
+import Contact from '../components/Contact'
+import Service from '../components/Service'
+import Blog from '../components/Blog'
 import slider from"../assets/images/slider-img.jpg"
 import "../css/Home.css"
 function Home() {
